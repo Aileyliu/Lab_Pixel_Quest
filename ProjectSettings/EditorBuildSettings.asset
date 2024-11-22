@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/PixelQuestAssets/Scenes/MenuLevel.unity
     guid: 9194a4b5c6e9f8a4b924379ae168a43c
   - enabled: 1
+    path: Assets/final1.unity
+    guid: 61187d9404d1b4d9191241ca3f9990b2
+  - enabled: 1
     path: Assets/PixelQuestAssets/Scenes/TestLevel.unity
     guid: f35eb8a628e5ba847abdbb0d1153d57c
   - enabled: 1
@@ -23,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NarrativeHomeworkAssets/Scenes/Narrative_Level_1.unity
     guid: 4b43b97a7964c9044a2d94c16e348d8e
+  - enabled: 1
+    path: Assets/final2.unity
+    guid: 55a7babc95f194caaa8e91cea236be27
   m_configObjects: {}
